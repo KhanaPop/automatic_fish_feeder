@@ -1,5 +1,5 @@
- #define BLYNK_TEMPLATE_ID "TMPL6uVsUU_y4"
-#define BLYNK_TEMPLATE_NAME "fish"
+ #define BLYNK_TEMPLATE_ID "xxxxxxx"
+#define BLYNK_TEMPLATE_NAME "xxxxx"
 #include <WiFi.h>
 #include <BlynkSimpleEsp32.h>
 #include <AccelStepper.h>
@@ -7,9 +7,9 @@
 
 //#define BLYNK_AUTH_TOKEN "_x-t9GG48karKxI_NzrH8QVVUwJOu4c0"
 // WiFi credentials
-char auth[] = "_x-t9GG48karKxI_NzrH8QVVUwJOu4c0";
-char ssid[] = "Unable-2.4G";
-char pass[] = "asdw522ok";
+char auth[] = "xxxx";
+char ssid[] = "xxxx";
+char pass[] = "xxxx";
 
 // Blink authentication token
 
